@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "information.hpp"
+#include "../header/information.hpp"
 using namespace std;
 
 postgrad::postgrad(string name_main, string gender_main, int age_main) : ptr_p1(new student(name_main, gender_main, age_main))

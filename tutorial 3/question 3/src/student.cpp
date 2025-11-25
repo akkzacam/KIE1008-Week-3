@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "information.hpp"
+#include "../header/information.hpp"
 using namespace std;
 
 student::student(string name_main, string gender_main, int age_main)
