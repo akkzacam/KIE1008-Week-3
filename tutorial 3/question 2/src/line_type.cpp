@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <iomanip>
-#include "line.h"
+#include "../header/line.h"
 using namespace std;
 
 lineType::lineType() : p1(), p2(){}

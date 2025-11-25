@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
-#include "line.h"
+#include "../header/line.h"
 using namespace std;
 
 //default constructor

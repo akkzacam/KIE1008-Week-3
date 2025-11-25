@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-#include "line.h"
+#include "../header/line.h"
 using namespace std;
 
 int main(void)
