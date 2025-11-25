@@ -2,7 +2,7 @@
 #include <string>
 #include <ctime>
 #include <cstdlib>
-#include "information.hpp"
+#include "../header/information.hpp"
 using namespace std;
 
 class core;

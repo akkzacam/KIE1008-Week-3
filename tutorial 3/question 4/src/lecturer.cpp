@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "information.hpp"
+#include "../header/information.hpp"
 using namespace std;
 
 class lecturer;

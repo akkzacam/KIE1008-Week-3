@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 #include <limits>
-#include "information.hpp"
+#include "../header/information.hpp"
 using namespace std;
 
 int main(void)
