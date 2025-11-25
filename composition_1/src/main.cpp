@@ -1,5 +1,5 @@
 #include <iostream>
-#include "composition_1.h"
+#include "../header/composition_1.h"
 using namespace std;
 
 int main (void)

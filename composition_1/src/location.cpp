@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "composition_1.h"
+#include "../header/composition_1.h"
 using namespace std;
 
 Location::Location (Point s, Point d)
