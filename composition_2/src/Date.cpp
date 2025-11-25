@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdexcept>
-#include "composition_2.h"
+#include "../header/composition_2.h"
 using namespace std;
 
 Date::Date (int m, int d, int y)

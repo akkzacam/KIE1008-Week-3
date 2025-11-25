@@ -1,5 +1,5 @@
 #include <iostream>
-#include "composition_2.h"
+#include "../header/composition_2.h"
 using namespace std;
 /*
 Employee::Employee(const string &first, const string &last, const Date &dob, const Date &doh)
